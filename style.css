@@ -1,0 +1,31 @@
+h1{
+    color: white;
+}
+
+/* *{
+    border: solid;
+}*/
+.header{
+
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color:lightblue ;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.footer{
+    background-color:lightgreen ;
+display: flex;
+justify-content: space-between;
+
+}
+p,h2{
+
+    text-align: center;
+
+}
